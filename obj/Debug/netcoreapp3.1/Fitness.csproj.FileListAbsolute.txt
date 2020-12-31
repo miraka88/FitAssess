@@ -1,0 +1,13 @@
+C:\Users\ashle\Fitness\bin\Debug\netcoreapp3.1\Fitness.exe
+C:\Users\ashle\Fitness\bin\Debug\netcoreapp3.1\Fitness.deps.json
+C:\Users\ashle\Fitness\bin\Debug\netcoreapp3.1\Fitness.runtimeconfig.json
+C:\Users\ashle\Fitness\bin\Debug\netcoreapp3.1\Fitness.runtimeconfig.dev.json
+C:\Users\ashle\Fitness\bin\Debug\netcoreapp3.1\Fitness.dll
+C:\Users\ashle\Fitness\bin\Debug\netcoreapp3.1\Fitness.pdb
+C:\Users\ashle\Fitness\obj\Debug\netcoreapp3.1\Fitness.csprojAssemblyReference.cache
+C:\Users\ashle\Fitness\obj\Debug\netcoreapp3.1\Fitness.AssemblyInfoInputs.cache
+C:\Users\ashle\Fitness\obj\Debug\netcoreapp3.1\Fitness.AssemblyInfo.cs
+C:\Users\ashle\Fitness\obj\Debug\netcoreapp3.1\Fitness.dll
+C:\Users\ashle\Fitness\obj\Debug\netcoreapp3.1\Fitness.pdb
+C:\Users\ashle\Fitness\obj\Debug\netcoreapp3.1\Fitness.genruntimeconfig.cache
+C:\Users\ashle\Fitness\obj\Debug\netcoreapp3.1\Fitness.csproj.CoreCompileInputs.cache
